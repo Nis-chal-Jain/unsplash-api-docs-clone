@@ -1,1 +1,1 @@
-https://github.com/Nis-chal-Jain/unsplash-api-docs-clone/assets/89198650/ea76acbb-47e4-4fa9-953a-690d73ecaf5f
+https://github.com/Nis-chal-Jain/unsplash-api-docs-clone/assets/89198650/df6b5cce-7b26-4734-a636-379689b125cb
