@@ -1,0 +1,24 @@
+{% extends "base.html" %} {% block content %}
+<link rel="stylesheet" href="{{ 'stylesheets/home.css' | url }}" />
+
+<div class="md-container home-page">
+  <section class="home-container">
+    <div class="md-grid md-typeset">
+      <div class="mdx-hero">
+        <div class="headline-section">
+          <h1 ><strong>
+            The most powerful photo engine in the world.
+        </strong>
+          </h1>
+          <div class="but">
+          <p style="display: block">
+            <a href="{{ 'gettingstarted/creating-a-developer-account' | url }}" class="md-button white md-button--primary">Get Started</a>
+            <a href="{{ 'Supported-languages' | url }}" class="md-button white">Supported-languages</a>
+        </div>
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+  </div>
+  {% endblock %}

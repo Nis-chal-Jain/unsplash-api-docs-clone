@@ -1,0 +1,34 @@
+nav:
+  - API Documentation: index.md
+  - Getting started:
+    - Creating a developer account: gettingstarted/creating-a-developer-account.md
+    - Registering your application: gettingstarted/registering-your-application.md
+    - Libraries & SDKs: gettingstarted/libraries-and-SDKs.md
+    - Guidelines & Crediting: gettingstarted/guidelines-and-crediting.md
+    - Hotlinking: gettingstarted/Hotlinking.md
+    - Deprecation policy: gettingstarted/Deprecation-policy.md
+  - Schema:
+    - Location: Schema/location.md
+    - Version: Schema/version.md
+    - HTTP verbs: Schema/http-verbs.md
+    - Error messages: Schema/Error-messages.md
+  - Authorization: 
+    - Public authentication: Authorization/public-authentication.md
+    - User authentication : Authorization/user-authentication.md
+    - Dynamic client registration : Authorization/dynamic-client-registration.md
+  - Pagination:
+    - Pagination headers: Pagination/pagination-headers.md
+  - Rate limiting: rate-limiting.md
+  - Dynamically resizable images: 
+    - Supported Parameters: Dynamically-resizable-images/supported-parameters.md
+    - Example image use: Dynamically-resizable-images/example-image-use.md
+  - BlurHash Placeholders: blurHash-placeholders.md
+  - Content safety: Content-safety.md
+  - Supported languages: Supported-languages.md
+  - Current user: 
+    - Get the user’s profile: Current user/Get-the-user’s-profile.md
+    - Update the current user’s profile: Current user/Update-the-current-user’s-profile.md
+  - Photos:
+    - List photos: Photos/List-photos.md
+    - Get a photo: Photos/Get-a-photo.md
+    - Get a random photo:  Photos/Get-a-random-photo.md

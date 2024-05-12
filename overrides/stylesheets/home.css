@@ -1,0 +1,20 @@
+.md-typeset .md-button{
+    border-radius: 2px;
+    margin: 4px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color: var(--md-primary-bg-color);
+    color: var(--md-primary-bg-color);
+}
+.md-typeset .md-button--primary {
+    background-color: var(--md-primary-bg-color);
+    border-color: var(--md-primary-bg-color);
+    color: var(--md-primary-fg-color);
+}
+.home-container .mdx-hero .but{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
